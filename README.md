@@ -7,3 +7,10 @@ $ mvn archetype:generate \
 -DinteractiveMode=false
 ```
 
+```bash
+$ mvn exec:exec -q                                                                                                                                                                                                                                                           23:45:33
+Hello, world.
++ echo 'Hello, world.'
+$                
+```
+
