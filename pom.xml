@@ -84,6 +84,9 @@
                     </executions>
                     <configuration>
                         <executable>${basedir}/test.sh</executable>
+                        <arguments>
+                            <argument>Hello, Mars!</argument>
+                        </arguments>
                     </configuration>
                 </plugin>
             </plugins>

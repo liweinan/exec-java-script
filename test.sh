@@ -1,2 +1,6 @@
 set -x
-echo "Hello, world."
+echo "Hello, world!"
+
+echo "$1"
+
+
